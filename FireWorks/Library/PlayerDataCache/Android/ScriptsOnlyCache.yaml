@@ -60,7 +60,6 @@ ScriptsOnlyBuild:
     - UnityEditor.VFX.VFXSlotVector
     - UnityEditor.VFX.VFXSpawnerConstantRate
     - UnityEditor.VFX.VFXUI
-    - VFXContextEditor
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
@@ -108,83 +107,83 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11330}
+      Script: {instanceID: 11306}
     - Class: 114
-      Script: {instanceID: 11332}
+      Script: {instanceID: 11308}
     - Class: 114
-      Script: {instanceID: 11334}
+      Script: {instanceID: 11310}
     - Class: 114
-      Script: {instanceID: 11336}
+      Script: {instanceID: 11312}
     - Class: 114
-      Script: {instanceID: 11340}
+      Script: {instanceID: 11316}
     - Class: 114
-      Script: {instanceID: 11342}
+      Script: {instanceID: 11318}
     - Class: 114
-      Script: {instanceID: 11346}
+      Script: {instanceID: 11322}
     - Class: 114
-      Script: {instanceID: 11348}
+      Script: {instanceID: 11324}
     - Class: 114
-      Script: {instanceID: 11522}
+      Script: {instanceID: 11494}
     - Class: 114
-      Script: {instanceID: 11652}
+      Script: {instanceID: 11624}
     - Class: 114
-      Script: {instanceID: 11682}
+      Script: {instanceID: 11654}
     - Class: 114
-      Script: {instanceID: 11870}
+      Script: {instanceID: 11842}
     - Class: 114
-      Script: {instanceID: 11920}
+      Script: {instanceID: 11890}
     - Class: 114
-      Script: {instanceID: 12112}
+      Script: {instanceID: 12082}
     - Class: 114
-      Script: {instanceID: 12234}
+      Script: {instanceID: 12204}
     - Class: 114
-      Script: {instanceID: 12510}
+      Script: {instanceID: 12476}
     - Class: 114
-      Script: {instanceID: 12582}
+      Script: {instanceID: 12548}
     - Class: 114
-      Script: {instanceID: 12846}
+      Script: {instanceID: 12810}
     - Class: 114
-      Script: {instanceID: 13076}
+      Script: {instanceID: 13038}
     - Class: 114
-      Script: {instanceID: 13128}
+      Script: {instanceID: 13090}
     - Class: 114
-      Script: {instanceID: 13192}
+      Script: {instanceID: 13154}
     - Class: 114
-      Script: {instanceID: 13304}
+      Script: {instanceID: 13266}
     - Class: 114
-      Script: {instanceID: 13658}
+      Script: {instanceID: 13618}
     - Class: 114
-      Script: {instanceID: 14008}
+      Script: {instanceID: 13962}
     - Class: 114
-      Script: {instanceID: 14084}
+      Script: {instanceID: 14038}
     - Class: 114
-      Script: {instanceID: 14106}
+      Script: {instanceID: 14060}
     - Class: 114
-      Script: {instanceID: 14242}
+      Script: {instanceID: 14196}
     - Class: 114
-      Script: {instanceID: 14274}
+      Script: {instanceID: 14228}
     - Class: 114
-      Script: {instanceID: 14280}
+      Script: {instanceID: 14234}
     - Class: 114
-      Script: {instanceID: 14634}
+      Script: {instanceID: 14584}
     - Class: 114
-      Script: {instanceID: 14698}
+      Script: {instanceID: 14648}
     - Class: 114
-      Script: {instanceID: 15006}
+      Script: {instanceID: 14956}
     - Class: 114
-      Script: {instanceID: 15190}
+      Script: {instanceID: 15140}
     - Class: 114
-      Script: {instanceID: 15254}
+      Script: {instanceID: 15204}
     - Class: 114
-      Script: {instanceID: 15498}
+      Script: {instanceID: 15448}
     - Class: 114
-      Script: {instanceID: 15502}
+      Script: {instanceID: 15452}
     - Class: 114
-      Script: {instanceID: 15568}
+      Script: {instanceID: 15518}
     - Class: 114
-      Script: {instanceID: 15720}
+      Script: {instanceID: 15668}
     - Class: 114
-      Script: {instanceID: 15726}
+      Script: {instanceID: 15674}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1291,4 +1290,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/ferna/Desktop/f.apk
+  playerPath: C:/Users/ferna/Desktop/FireWorks_VR.apk
